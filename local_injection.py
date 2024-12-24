@@ -1,4 +1,4 @@
 import os
 
-user_input = input("Enter a command: ")
-os.system(user_input)
+cmd = input("Enter a command: ")
+os.system(cmd)
